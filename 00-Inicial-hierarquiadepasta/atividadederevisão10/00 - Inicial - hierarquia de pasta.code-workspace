@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../01 - Meu primeiro programa"
+		},
+		{
+			"path": "../../02 - Tipos de dados e operadores"
+		},
+		{
+			"path": "../../02-convercao"
+		},
+		{
+			"path": "../../03-Exercicios"
+		},
+		{
+			"path": "../../04-Estruturas_programacao"
+		},
+		{
+			"path": "../../Atividade de revisão"
+		},
+		{
+			"path": "../../Atividade de revisão 2"
+		},
+		{
+			"path": "../../atividade de revisão 3"
+		},
+		{
+			"path": "../../atividade de revisão 4"
+		},
+		{
+			"path": "../../atividade de revisão 5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "00 - Inicial - hierarquia de pasta"
+	}
+}

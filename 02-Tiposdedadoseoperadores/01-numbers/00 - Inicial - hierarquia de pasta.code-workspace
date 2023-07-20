@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../00 - Inicial - hierarquia de pasta"
+		},
+		{
+			"path": "../../01 - Meu primeiro programa"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02 - Tipos de dados e operadores"
+	}
+}
